@@ -277,6 +277,12 @@ Project Zomboid is bad at reloading Java-side mod changes while already running,
 
 ## 3. Linux Installation
 
+Credit for the Linux installer and Linux tutorial goes to Mahad-Ibrahim:
+
+```text
+https://github.com/Mahad-Ibrahim/Installer_Project_Remnants_Linux-
+```
+
 Linux installer source:
 
 ```text
@@ -406,4 +412,3 @@ If the game does not start after installation, restore the backup JSON created b
 - `ProjectZomboid64.json` contains `-javaagent:NPCFW.jar`;
 - Project Remnants is enabled in the Mods menu;
 - the game was restarted after enabling the mod.
-
