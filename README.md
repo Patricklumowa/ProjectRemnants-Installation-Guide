@@ -126,6 +126,12 @@ Run the installer again. If it still happens, use the manual installation below 
 
 ## 2. Windows Manual Installation
 
+Credit for the manual installation instructions goes to SmashingQuasar:
+
+```text
+https://github.com/SmashingQuasar
+```
+
 Use this only if the Windows installer does not work.
 
 ### Step 1: Open The Game Folder
