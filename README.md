@@ -14,6 +14,8 @@ Close Project Zomboid before installing.
 
 Make sure Project Remnants is installed from Steam Workshop or placed in your mods folder. The installer files should be inside the Project Remnants mod folder, in a folder named `root`.
 
+Watch this Video if you are too LAZY TO READ : <https://www.youtube.com/watch?v=lZqylADi1Lw>
+
 The important files are:
 
 ```text
